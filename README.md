@@ -1,5 +1,5 @@
-<h1>I'm CAT' S</h1>
-<h3 align="center">Newbie</h3>
+<h1 align="center">I'm CAT' S</h1>
+<h3 align="center">Newbie person :D</h3>
 
 <p align="left"> <a href="https://twitter.com/anthxry" target="blank"><img src="https://img.shields.io/twitter/follow/anthxry?logo=twitter&style=for-the-badge" alt="anthxry" /></a> </p>
 
