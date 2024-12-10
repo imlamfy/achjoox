@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **WebDev, UI/UX, Laravel**
 
-- 💬 Ask me about **Figma, Project Planner**
+- 💬 Ask me about **UI/UX, Project Planner, Photography, Cosplay, Website**
 
 - 📫 How to reach me **anthxry@gmail.com**
 
